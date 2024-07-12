@@ -2,3 +2,7 @@
 /JustFrederik/
 /facebook/
 /cache/*.json
+/env/
+/__pycache__
+/cache
+plugins/__pycache__/
